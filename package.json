@@ -1,7 +1,7 @@
 {
-  "name": "employee-tracker",
+  "name": "package.json",
   "version": "1.0.0",
-  "description": "",
+  "description": "Employee Tracker Using MySQL, Inquirer, Console.Table and Node.js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,5 +31,8 @@
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
     "validator": "^13.0.0"
-  }
+  },
+  "keywords": [
+    "package"
+  ]
 }

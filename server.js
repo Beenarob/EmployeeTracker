@@ -1,5 +1,10 @@
 const connection = require('./config/connection');
+//Before
 const inquirer = require('inquirer');
+//After
+import inquirer from 'inquirer';
+
+//Before
 const cTable = require('console.table');
 const chalk = require('chalk');
 const figlet = require('figlet');
